@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1590660847 source:d:\projects\cpp\kursach\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"bank_info.h"
+	"clientInteraction.h"
+	"extraFunctions.h"
+
+1590336531 source:d:\projects\cpp\kursach\bank_info.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"bank_info.h"
+
+1590341565 d:\projects\cpp\kursach\bank_info.h
+
+1590660636 d:\projects\cpp\kursach\clientinteraction.h
+
+1590609725 d:\projects\cpp\kursach\extrafunctions.h
+	"clientInteraction.h"
+
+1590660847 source:d:\projects\cpp\kursach\extrafunctions.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"extraFunctions.h"
+	"clientInteraction.h"
+
+1590660847 source:d:\projects\cpp\kursach\clientinteraction.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"clientInteraction.h"
+	"bank_info.h"
+	"extraFunctions.h"
+
+1590336531 source:c:\users\kust\downloads\kursach_sdelairar\kursach\bank_info.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"bank_info.h"
+
+1590341565 c:\users\kust\downloads\kursach_sdelairar\kursach\bank_info.h
+
+1590660847 source:c:\users\kust\downloads\kursach_sdelairar\kursach\clientinteraction.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"clientInteraction.h"
+	"bank_info.h"
+	"extraFunctions.h"
+
+1590660636 c:\users\kust\downloads\kursach_sdelairar\kursach\clientinteraction.h
+
+1590609725 c:\users\kust\downloads\kursach_sdelairar\kursach\extrafunctions.h
+	"clientInteraction.h"
+
+1590660847 source:c:\users\kust\downloads\kursach_sdelairar\kursach\extrafunctions.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"extraFunctions.h"
+	"clientInteraction.h"
+
+1590660847 source:c:\users\kust\downloads\kursach_sdelairar\kursach\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	"bank_info.h"
+	"clientInteraction.h"
+	"extraFunctions.h"
+
