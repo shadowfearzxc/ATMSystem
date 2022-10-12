@@ -1,5 +1,6 @@
 # ATMSystem 
 
+<img width="312" alt="Снимок экрана 2022-06-06 в 23 42 37" src="https://user-images.githubusercontent.com/108304867/195423768-90f67fcc-05d6-4ae7-b37b-810c24ba9afe.png">
 
 
 ## Table of Contents
@@ -27,7 +28,7 @@ More information, all screenshots you can see in documentation.doc file
 * Transfer of funds from account to account
 * Payment for services
 * Debugged mechanism for extracting and changing data in files and “classes”
-* Фccount lockdown after 3 failed password entries
+* Account lockdown after 3 failed password entries
 
 ## Requirements
 * CodeBlock 20.00 or later !!!
