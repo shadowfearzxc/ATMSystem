@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Errors](#errors)
 * [Requirements](#requirements)
 
 ## General Information
@@ -14,6 +13,8 @@
 This is a ATMSystem . Basic functionality
 
 It is written on C++
+
+More information, all screenshots you can see in documentation.doc file
 
 ## Technologies Used
 * C++
