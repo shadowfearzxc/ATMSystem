@@ -1,6 +1,6 @@
 # ATMSystem 
 
-<img width="312" alt="Снимок экрана 2022-06-06 в 23 42 37" src="https://user-images.githubusercontent.com/108304867/195423768-90f67fcc-05d6-4ae7-b37b-810c24ba9afe.png">
+<img width="624" alt="Снимок экрана 2022-06-06 в 23 42 37" src="https://user-images.githubusercontent.com/108304867/195423768-90f67fcc-05d6-4ae7-b37b-810c24ba9afe.png">
 
 
 ## Table of Contents
