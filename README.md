@@ -17,6 +17,8 @@ It is written on C++
 
 More information, all screenshots you can see in documentation.doc file
 
+git clone https://github.com/shadowfearzxc/ATMSystem.git
+
 ## Technologies Used
 * C++
 
