@@ -1,0 +1,21 @@
+cash out. client:12345 , sum:30
+cash in.  client:12345 , sum:130.000000
+transfer. from:12345 , to:13579 ,sum: 100.000000
+payment.  client:12345 , payNum:421 , sum:1.200000
+cash out. client:87654 , sum:85
+cash in.  client:87654 , sum:55.000000
+cash out. client:87654 , sum:980
+transfer. from:87654 , to:13579 ,sum: 23.000000
+payment.  client:87654 , payNum:4325 , sum:234.000000
+cash out. client:13579 , sum:1455
+cash in.  client:13579 , sum:750.000000
+transfer. from:13579 , to:12345 ,sum: 5.200000
+payment.  client:13579 , payNum:1246 , sum:1.000000
+cash in.  client:13579 , sum:41500.000000
+cash out. client:12345 , sum:10
+cash in.  client:12345 , sum:505.000000
+transfer. from:12345 , to:13579 ,sum: 13.000000
+payment.  client:12345 , payNum:125 , sum:111.000000
+cash out. client:13579 , sum:5
+cash in . client:13579 , sum:505.000000
+cash out. client:13579 , sum:50
